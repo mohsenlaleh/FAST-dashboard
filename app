@@ -1,4 +1,3 @@
-setwd("C:\\Users\\laleh\\documents")
 suppressMessages(extrafont::loadfonts(device="win"))
 suppressMessages(library(shiny))
 suppressMessages(library(shinydashboard))
